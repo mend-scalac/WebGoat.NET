@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: WebGoat.NET
+  annotations:
+    github.com/project-slug: mend-scalac/WebGoat.NET
+spec:
+  type: other
+  lifecycle: unknown
+  owner: dariuszsobkowicz
